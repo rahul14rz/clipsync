@@ -1,5 +1,6 @@
 #include "clipboard_plugin.h"
 
+#include <flutter/event_stream_handler_functions.h>
 #include <flutter/standard_method_codec.h>
 
 #include <string>
